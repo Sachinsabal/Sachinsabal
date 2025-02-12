@@ -1,6 +1,6 @@
 ![logo](https://github.com/sachinsabbal2002/sachinsabbal2002/blob/main/prof.gif)
 <h1 align="center">Hi 👋, I'm Sachin_sabal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/d1/b7/e1d1b7f73d4f26fed4445abea76b09da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsabbal2002&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsabbal2002" /> </p>
